@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rlToolbarandAds"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <!--<android.support.v7.widget.Toolbar-->
+            <!--android:id="@+id/toolbar"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="?attr/actionBarSize"-->
+            <!--android:background="@color/colorPrimary"-->
+            <!--android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"-->
+            <!--android:gravity="center">-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text=""-->
+                <!--android:textSize="@dimen/font_size_16"-->
+                <!--android:textStyle="bold"-->
+                <!--android:textColor="@color/white"-->
+                <!--android:layout_marginRight="@dimen/margin_10"-->
+                <!--android:layout_gravity="right"-->
+                <!--android:id="@+id/tvTittleDetail" />-->
+
+            <RelativeLayout
+                android:id="@+id/rlToolbar"
+                android:background="@color/colorPrimary"
+                android:layout_width="match_parent"
+                android:layout_height="56dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tittle"
+                    android:textSize="@dimen/font_size_16"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:layout_marginRight="@dimen/margin_10"
+                    android:layout_centerInParent="true"
+                    android:id="@+id/tvTittleDetail" />
+
+                <ImageView
+                    android:padding="@dimen/margin_3"
+                    android:id="@+id/ivShare"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <ImageView
+                    android:layout_marginLeft="@dimen/margin_25"
+                    android:layout_toRightOf="@id/ivShare"
+                    android:padding="@dimen/margin_3"
+                    android:id="@+id/ivRate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </RelativeLayout>
+
+        <!--</android.support.v7.widget.Toolbar>-->
+
+        <LinearLayout
+            android:padding="3dp"
+            android:background="@color/colorLatarIklan"
+            android:layout_alignWithParentIfMissing="true"
+            android:layout_below="@id/rlToolbar"
+            android:id="@+id/fanContainer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </RelativeLayout>
+
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_below="@id/rlToolbarandAds"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.nozbottomnavigation.menu.NZBottomNavigationViewPager
+            android:id="@+id/view_pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <com.nozbottomnavigation.menu.NZBottomNavigation
+            android:id="@+id/bottom_navigation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            app:selectedBackgroundVisible="false"/>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</RelativeLayout>
+
+

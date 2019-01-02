@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [:nozbottomnavigation] D:\Android_Component\Menu\MenuBottomNavigation\nozbottomnavigation\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\dbd5bd1434bc0a1d5110b8ff4b98dc4a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\6b98aa7b229e49ef00206189863ab738\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\fb937354cde76bc6d583a15045333cb2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\3f961133c59463b971fc1652dcbe0a0d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\36666701054926bbf23e3d2a74fb2cca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\22675b7d72c4bc418fd0f835fa41e485\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\95c7699b644126df685456add75407c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\424146ae9046d29b42c2f4768f6fdf91\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\49802a473902ae76abcdb8a363b07455\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\9206f41f0dcba838fb7e6f72047c6c1d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\06816c57e3ba8bea7b7abd3a14ca9f9b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1bd85ad98d7e2ae48d9dec9a94bc7622\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\c5c09bb3bcfa1f3aa8ed6f871c632da6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\ca6a0f541b731237cc3a79f3db14892b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1f5dec47e293342178e938f741b47bbf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\491bfa5b94f4b165519c50301401e295\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\ca46ce8d01271b6c5df3763b968f9a35\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\4cefe67e7a34c74620d2a155e75f96b5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\647603dcad9f81170ef1c7791814e9b7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\779438c643c1a711f4cbfba3f54d2d91\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\7b9b3b44f007d3a8f1500362a9584887\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\cde018c912886390295cfb054d7a4e31\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\1b104a6023a3356e6a3720e67ad4333a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\06b4f5a5428429a4e31336c1824fac99\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b6773cdee9d89443cd2f692445862b5c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\12073a39194c9ff138fc0f9029376617\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\e1114cbdbaf7fba4dd8a2735cffc506e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\1412eb929fc9c1e3d5393ebe75db7d88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\213fd69a78af9dc5c2e8d8fd76b47425\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\eaab9150ddf7a0dd42081edf0728297c\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:2:11-54
+		INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:7:5-19:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\dbd5bd1434bc0a1d5110b8ff4b98dc4a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\dbd5bd1434bc0a1d5110b8ff4b98dc4a\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\647603dcad9f81170ef1c7791814e9b7\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\647603dcad9f81170ef1c7791814e9b7\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\779438c643c1a711f4cbfba3f54d2d91\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\779438c643c1a711f4cbfba3f54d2d91\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\647603dcad9f81170ef1c7791814e9b7\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:12:9-52
+activity#com.nozbottomnavigation.menu.demo.DemoActivity
+ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:13:9-18:20
+	android:name
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:13:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+MERGED from [:nozbottomnavigation] D:\Android_Component\Menu\MenuBottomNavigation\nozbottomnavigation\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:nozbottomnavigation] D:\Android_Component\Menu\MenuBottomNavigation\nozbottomnavigation\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\dbd5bd1434bc0a1d5110b8ff4b98dc4a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\dbd5bd1434bc0a1d5110b8ff4b98dc4a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\6b98aa7b229e49ef00206189863ab738\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\6b98aa7b229e49ef00206189863ab738\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\fb937354cde76bc6d583a15045333cb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\fb937354cde76bc6d583a15045333cb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\3f961133c59463b971fc1652dcbe0a0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\3f961133c59463b971fc1652dcbe0a0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\36666701054926bbf23e3d2a74fb2cca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\36666701054926bbf23e3d2a74fb2cca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\22675b7d72c4bc418fd0f835fa41e485\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\22675b7d72c4bc418fd0f835fa41e485\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\95c7699b644126df685456add75407c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\95c7699b644126df685456add75407c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\424146ae9046d29b42c2f4768f6fdf91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\424146ae9046d29b42c2f4768f6fdf91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\49802a473902ae76abcdb8a363b07455\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\49802a473902ae76abcdb8a363b07455\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\9206f41f0dcba838fb7e6f72047c6c1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\9206f41f0dcba838fb7e6f72047c6c1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\06816c57e3ba8bea7b7abd3a14ca9f9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\06816c57e3ba8bea7b7abd3a14ca9f9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1bd85ad98d7e2ae48d9dec9a94bc7622\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1bd85ad98d7e2ae48d9dec9a94bc7622\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\c5c09bb3bcfa1f3aa8ed6f871c632da6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\c5c09bb3bcfa1f3aa8ed6f871c632da6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\ca6a0f541b731237cc3a79f3db14892b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\ca6a0f541b731237cc3a79f3db14892b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1f5dec47e293342178e938f741b47bbf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\1f5dec47e293342178e938f741b47bbf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\491bfa5b94f4b165519c50301401e295\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\491bfa5b94f4b165519c50301401e295\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\ca46ce8d01271b6c5df3763b968f9a35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\ca46ce8d01271b6c5df3763b968f9a35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\4cefe67e7a34c74620d2a155e75f96b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\4cefe67e7a34c74620d2a155e75f96b5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\647603dcad9f81170ef1c7791814e9b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\647603dcad9f81170ef1c7791814e9b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\779438c643c1a711f4cbfba3f54d2d91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\779438c643c1a711f4cbfba3f54d2d91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\7b9b3b44f007d3a8f1500362a9584887\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\7b9b3b44f007d3a8f1500362a9584887\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\cde018c912886390295cfb054d7a4e31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\cde018c912886390295cfb054d7a4e31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\1b104a6023a3356e6a3720e67ad4333a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\1b104a6023a3356e6a3720e67ad4333a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\06b4f5a5428429a4e31336c1824fac99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\06b4f5a5428429a4e31336c1824fac99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b6773cdee9d89443cd2f692445862b5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b6773cdee9d89443cd2f692445862b5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\12073a39194c9ff138fc0f9029376617\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\12073a39194c9ff138fc0f9029376617\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\e1114cbdbaf7fba4dd8a2735cffc506e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\e1114cbdbaf7fba4dd8a2735cffc506e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\1412eb929fc9c1e3d5393ebe75db7d88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\1412eb929fc9c1e3d5393ebe75db7d88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\213fd69a78af9dc5c2e8d8fd76b47425\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\213fd69a78af9dc5c2e8d8fd76b47425\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\eaab9150ddf7a0dd42081edf0728297c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Azalea\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\eaab9150ddf7a0dd42081edf0728297c\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Component\Menu\MenuBottomNavigation\demo\src\main\AndroidManifest.xml

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MenuBottomNavigation.iml" filepath="$PROJECT_DIR$/MenuBottomNavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ahbottomnavigation/ahbottomnavigation.iml" filepath="$PROJECT_DIR$/ahbottomnavigation/ahbottomnavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nozbottomnavigation/nozbottomnavigation.iml" filepath="$PROJECT_DIR$/nozbottomnavigation/nozbottomnavigation.iml" />
+    </modules>
+  </component>
+</project>
